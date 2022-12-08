@@ -1,0 +1,19 @@
+-поменять шрифт на линказ
+-убрать подчёркивание
+-разнести по папкам
+
+-картинки емэйла
+-картинки телеграма добавить
+
+'''
+Как заранить фласк:
+Set-ExecutionPolicy -Scope CurrentUser -ExecutionPolicy Unrestricted
+venv/Scripts/activate
+set FLASK_APP=app_runner.py
+$env:FLASK_APP = "app_runner.py"
+
+pip freeze
+'''
+
+
+-на кэггле соревнование выйграть

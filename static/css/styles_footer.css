@@ -1,0 +1,18 @@
+.all_boxes_footer{
+width: 1500px;
+height: 70px;
+background-color:rgb(100, 100, 100);
+vertical-align:middle;text-align:center;
+}
+.all_boxes_main{
+width: 1500px;
+height: 700px;
+background-color:rgb(200, 200, 200);
+vertical-align:middle;text-align:center;
+}
+.telegram_info{
+color:rgb(40, 40, 40);
+}
+.email_info{
+color:rgb(40, 40, 40);
+}
